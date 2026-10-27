@@ -1,0 +1,10 @@
+{
+  "name": "AllFileTools File Converter",
+  "short_name": "AllFileTools",
+  "description": "Convert files online",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f8fc",
+  "theme_color": "#155eef",
+  "icons": []
+}
